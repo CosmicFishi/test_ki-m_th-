@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T08:22:51.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="vkTLONsPs1IzE0Gd3AuA" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T08:34:24.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QJbKvrCUbP03fQ9DPzvp" version="14.6.12" type="github">
   <diagram id="eVDDyrBZDO4o0EqZV1wn" name="Page-1">
     <mxGraphModel dx="1083" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,14 +64,14 @@
         <mxCell id="D9L7bpPqptW_ZuWx_T5x-18" value="Hiển thị thông tin truyện" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D9L7bpPqptW_ZuWx_T5x-19" value="Hiển thị thông tin &lt;br&gt;một chương" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D9L7bpPqptW_ZuWx_T5x-19" value="Đọc chuyện chương đầu tiên" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D9L7bpPqptW_ZuWx_T5x-20" value="Yêu thích truyện" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="300" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D9L7bpPqptW_ZuWx_T5x-21" value="Bỏ yêu thích truyện" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D9L7bpPqptW_ZuWx_T5x-20" value="Tương tác chuyện" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D9L7bpPqptW_ZuWx_T5x-21" value="Đọc truyện" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9L7bpPqptW_ZuWx_T5x-22" value="Tìm truyện" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="420" width="120" height="40" as="geometry" />
